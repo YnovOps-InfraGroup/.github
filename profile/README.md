@@ -44,13 +44,11 @@ Formation en **alternance sur 2 ans**, visant l'obtention du titre **RNCP39582 N
 
 ## 🎓 Certifications ciblées
 
-![CCNA](https://img.shields.io/badge/Cisco-CCNA-blue?style=flat-square&logo=cisco)
 ![AZ-700](https://img.shields.io/badge/Azure-AZ--700-0089D6?style=flat-square&logo=microsoftazure)
 ![AZ-305](https://img.shields.io/badge/Azure-AZ--305-0089D6?style=flat-square&logo=microsoftazure)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Fortinet](https://img.shields.io/badge/Fortinet-NSE-EE3124?style=flat-square)
-![Stormshield](https://img.shields.io/badge/Stormshield-SCS-003087?style=flat-square)
-![CCSP](https://img.shields.io/badge/ISC2-CCSP-006400?style=flat-square)
-
 ---
 
 ## 🛠️ Stack & Outils
